@@ -1,0 +1,15 @@
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\bin\Debug\net6.0\Check_char.exe
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\bin\Debug\net6.0\Check_char.deps.json
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\bin\Debug\net6.0\Check_char.runtimeconfig.json
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\bin\Debug\net6.0\Check_char.dll
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\bin\Debug\net6.0\Check_char.pdb
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\Check_char.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\Check_char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\Check_char.AssemblyInfoInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\Check_char.AssemblyInfo.cs
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\Check_char.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\Check_char.dll
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\refint\Check_char.dll
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\Check_char.pdb
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\Check_char.genruntimeconfig.cache
+C:\Users\Vishal.Khetavat\source\repos\Check_char\Check_char\obj\Debug\net6.0\ref\Check_char.dll
