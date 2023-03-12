@@ -1,0 +1,15 @@
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\Consecutive_pairs.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\Consecutive_pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\Consecutive_pairs.AssemblyInfoInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\Consecutive_pairs.AssemblyInfo.cs
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\Consecutive_pairs.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\bin\Debug\net6.0\Consecutive_pairs.exe
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\bin\Debug\net6.0\Consecutive_pairs.deps.json
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\bin\Debug\net6.0\Consecutive_pairs.runtimeconfig.json
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\bin\Debug\net6.0\Consecutive_pairs.dll
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\bin\Debug\net6.0\Consecutive_pairs.pdb
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\Consecutive_pairs.dll
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\refint\Consecutive_pairs.dll
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\Consecutive_pairs.pdb
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\Consecutive_pairs.genruntimeconfig.cache
+C:\Users\Vishal.Khetavat\source\repos\Consecutive_pairs\Consecutive_pairs\obj\Debug\net6.0\ref\Consecutive_pairs.dll
