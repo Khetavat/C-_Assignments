@@ -1,0 +1,8 @@
+C:\Users\Vishal.Khetavat\source\repos\Supplier\Supplier\bin\Debug\Supplier.exe.config
+C:\Users\Vishal.Khetavat\source\repos\Supplier\Supplier\bin\Debug\Supplier.exe
+C:\Users\Vishal.Khetavat\source\repos\Supplier\Supplier\bin\Debug\Supplier.pdb
+C:\Users\Vishal.Khetavat\source\repos\Supplier\Supplier\obj\Debug\Supplier.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Supplier\Supplier\obj\Debug\Supplier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal.Khetavat\source\repos\Supplier\Supplier\obj\Debug\Supplier.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Supplier\Supplier\obj\Debug\Supplier.exe
+C:\Users\Vishal.Khetavat\source\repos\Supplier\Supplier\obj\Debug\Supplier.pdb
