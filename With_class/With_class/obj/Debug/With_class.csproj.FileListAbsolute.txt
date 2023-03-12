@@ -1,0 +1,8 @@
+C:\Users\Vishal.Khetavat\source\repos\With_class\With_class\bin\Debug\With_class.exe.config
+C:\Users\Vishal.Khetavat\source\repos\With_class\With_class\bin\Debug\With_class.exe
+C:\Users\Vishal.Khetavat\source\repos\With_class\With_class\bin\Debug\With_class.pdb
+C:\Users\Vishal.Khetavat\source\repos\With_class\With_class\obj\Debug\With_class.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\With_class\With_class\obj\Debug\With_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal.Khetavat\source\repos\With_class\With_class\obj\Debug\With_class.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\With_class\With_class\obj\Debug\With_class.exe
+C:\Users\Vishal.Khetavat\source\repos\With_class\With_class\obj\Debug\With_class.pdb
