@@ -1,0 +1,8 @@
+C:\Users\Vishal.Khetavat\source\repos\with_delegates\with_delegates\bin\Debug\with_delegates.exe.config
+C:\Users\Vishal.Khetavat\source\repos\with_delegates\with_delegates\bin\Debug\with_delegates.exe
+C:\Users\Vishal.Khetavat\source\repos\with_delegates\with_delegates\bin\Debug\with_delegates.pdb
+C:\Users\Vishal.Khetavat\source\repos\with_delegates\with_delegates\obj\Debug\with_delegates.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\with_delegates\with_delegates\obj\Debug\with_delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal.Khetavat\source\repos\with_delegates\with_delegates\obj\Debug\with_delegates.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\with_delegates\with_delegates\obj\Debug\with_delegates.exe
+C:\Users\Vishal.Khetavat\source\repos\with_delegates\with_delegates\obj\Debug\with_delegates.pdb
