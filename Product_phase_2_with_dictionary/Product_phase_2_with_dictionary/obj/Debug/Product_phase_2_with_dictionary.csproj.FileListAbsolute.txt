@@ -1,0 +1,8 @@
+C:\Users\Vishal.Khetavat\source\repos\Product_phase_2_with_dictionary\Product_phase_2_with_dictionary\bin\Debug\Product_phase_2_with_dictionary.exe.config
+C:\Users\Vishal.Khetavat\source\repos\Product_phase_2_with_dictionary\Product_phase_2_with_dictionary\bin\Debug\Product_phase_2_with_dictionary.exe
+C:\Users\Vishal.Khetavat\source\repos\Product_phase_2_with_dictionary\Product_phase_2_with_dictionary\bin\Debug\Product_phase_2_with_dictionary.pdb
+C:\Users\Vishal.Khetavat\source\repos\Product_phase_2_with_dictionary\Product_phase_2_with_dictionary\obj\Debug\Product_phase_2_with_dictionary.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Product_phase_2_with_dictionary\Product_phase_2_with_dictionary\obj\Debug\Product_phase_2_with_dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal.Khetavat\source\repos\Product_phase_2_with_dictionary\Product_phase_2_with_dictionary\obj\Debug\Product_phase_2_with_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Product_phase_2_with_dictionary\Product_phase_2_with_dictionary\obj\Debug\Product_phase_2_with_dictionary.exe
+C:\Users\Vishal.Khetavat\source\repos\Product_phase_2_with_dictionary\Product_phase_2_with_dictionary\obj\Debug\Product_phase_2_with_dictionary.pdb
