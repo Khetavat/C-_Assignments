@@ -1,0 +1,15 @@
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\bin\Debug\net6.0\Next_prime_number.exe
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\bin\Debug\net6.0\Next_prime_number.deps.json
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\bin\Debug\net6.0\Next_prime_number.runtimeconfig.json
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\bin\Debug\net6.0\Next_prime_number.dll
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\bin\Debug\net6.0\Next_prime_number.pdb
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\Next_prime_number.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\Next_prime_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\Next_prime_number.AssemblyInfoInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\Next_prime_number.AssemblyInfo.cs
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\Next_prime_number.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\Next_prime_number.dll
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\refint\Next_prime_number.dll
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\Next_prime_number.pdb
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\Next_prime_number.genruntimeconfig.cache
+C:\Users\Vishal.Khetavat\source\repos\Next_prime_number\Next_prime_number\obj\Debug\net6.0\ref\Next_prime_number.dll
