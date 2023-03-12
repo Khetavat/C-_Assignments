@@ -1,0 +1,8 @@
+C:\Users\Vishal.Khetavat\source\repos\Product_phase2\Product_phase2\bin\Debug\Product_phase2.exe.config
+C:\Users\Vishal.Khetavat\source\repos\Product_phase2\Product_phase2\bin\Debug\Product_phase2.exe
+C:\Users\Vishal.Khetavat\source\repos\Product_phase2\Product_phase2\bin\Debug\Product_phase2.pdb
+C:\Users\Vishal.Khetavat\source\repos\Product_phase2\Product_phase2\obj\Debug\Product_phase2.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Product_phase2\Product_phase2\obj\Debug\Product_phase2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal.Khetavat\source\repos\Product_phase2\Product_phase2\obj\Debug\Product_phase2.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Product_phase2\Product_phase2\obj\Debug\Product_phase2.exe
+C:\Users\Vishal.Khetavat\source\repos\Product_phase2\Product_phase2\obj\Debug\Product_phase2.pdb
