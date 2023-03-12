@@ -1,0 +1,8 @@
+C:\Users\Vishal.Khetavat\source\repos\With_Interface\With_Interface\bin\Debug\With_Interface.exe.config
+C:\Users\Vishal.Khetavat\source\repos\With_Interface\With_Interface\bin\Debug\With_Interface.exe
+C:\Users\Vishal.Khetavat\source\repos\With_Interface\With_Interface\bin\Debug\With_Interface.pdb
+C:\Users\Vishal.Khetavat\source\repos\With_Interface\With_Interface\obj\Debug\With_Interface.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\With_Interface\With_Interface\obj\Debug\With_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vishal.Khetavat\source\repos\With_Interface\With_Interface\obj\Debug\With_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\With_Interface\With_Interface\obj\Debug\With_Interface.exe
+C:\Users\Vishal.Khetavat\source\repos\With_Interface\With_Interface\obj\Debug\With_Interface.pdb
