@@ -1,0 +1,15 @@
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\bin\Debug\net6.0\Pattern_3.exe
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\bin\Debug\net6.0\Pattern_3.deps.json
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\bin\Debug\net6.0\Pattern_3.runtimeconfig.json
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\bin\Debug\net6.0\Pattern_3.dll
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\bin\Debug\net6.0\Pattern_3.pdb
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\Pattern_3.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\Pattern_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\Pattern_3.AssemblyInfoInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\Pattern_3.AssemblyInfo.cs
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\Pattern_3.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\Pattern_3.dll
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\refint\Pattern_3.dll
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\Pattern_3.pdb
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\Pattern_3.genruntimeconfig.cache
+C:\Users\Vishal.Khetavat\source\repos\Pattern_3\Pattern_3\obj\Debug\net6.0\ref\Pattern_3.dll
