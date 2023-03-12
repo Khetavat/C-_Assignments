@@ -1,0 +1,15 @@
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\bin\Debug\net6.0\Numberplate.exe
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\bin\Debug\net6.0\Numberplate.deps.json
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\bin\Debug\net6.0\Numberplate.runtimeconfig.json
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\bin\Debug\net6.0\Numberplate.dll
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\bin\Debug\net6.0\Numberplate.pdb
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\Numberplate.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\Numberplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\Numberplate.AssemblyInfoInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\Numberplate.AssemblyInfo.cs
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\Numberplate.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\Numberplate.dll
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\refint\Numberplate.dll
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\Numberplate.pdb
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\Numberplate.genruntimeconfig.cache
+C:\Users\Vishal.Khetavat\source\repos\Numberplate\Numberplate\obj\Debug\net6.0\ref\Numberplate.dll
