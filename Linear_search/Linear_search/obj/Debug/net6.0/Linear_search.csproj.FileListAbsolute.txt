@@ -1,0 +1,15 @@
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\bin\Debug\net6.0\Linear_search.exe
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\bin\Debug\net6.0\Linear_search.deps.json
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\bin\Debug\net6.0\Linear_search.runtimeconfig.json
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\bin\Debug\net6.0\Linear_search.dll
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\bin\Debug\net6.0\Linear_search.pdb
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\Linear_search.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\Linear_search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\Linear_search.AssemblyInfoInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\Linear_search.AssemblyInfo.cs
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\Linear_search.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\Linear_search.dll
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\refint\Linear_search.dll
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\Linear_search.pdb
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\Linear_search.genruntimeconfig.cache
+C:\Users\Vishal.Khetavat\source\repos\Linear_search\Linear_search\obj\Debug\net6.0\ref\Linear_search.dll
