@@ -1,0 +1,15 @@
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\bin\Debug\net6.0\Alternate_Array.exe
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\bin\Debug\net6.0\Alternate_Array.deps.json
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\bin\Debug\net6.0\Alternate_Array.runtimeconfig.json
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\bin\Debug\net6.0\Alternate_Array.dll
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\bin\Debug\net6.0\Alternate_Array.pdb
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\Alternate_Array.csproj.AssemblyReference.cache
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\Alternate_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\Alternate_Array.AssemblyInfoInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\Alternate_Array.AssemblyInfo.cs
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\Alternate_Array.csproj.CoreCompileInputs.cache
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\Alternate_Array.dll
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\refint\Alternate_Array.dll
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\Alternate_Array.pdb
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\Alternate_Array.genruntimeconfig.cache
+C:\Users\Vishal.Khetavat\source\repos\Alternate_Array\Alternate_Array\obj\Debug\net6.0\ref\Alternate_Array.dll
